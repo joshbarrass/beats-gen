@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.6
+
 # Matplotlib animated plot of beats
 
 import numpy as np
